@@ -1,6 +1,6 @@
 # A Python and Artificial Intelligence Program / Project
 
-**This is a jdbc client project from my early days as a Computer Science student**
+**This is a Python project from my early days as a Computer Science student**
 
 _This programm was created for the sixth semester class Artificial Intelligence 
 and is the final project for the class_
